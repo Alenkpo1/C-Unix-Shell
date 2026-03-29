@@ -1,4 +1,4 @@
-# C Unix Shell
+# C-Unix-Shell
 
 A basic command-line interpreter (Shell) for Unix systems, developed entirely in C. This project demonstrates low-level process management, inter-process communication (IPC), and core operating system concepts.
 
